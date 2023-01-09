@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "new_task": "node ./src/new_task.js",
-    "worker": "node ./src/worker.js",
+    "emit_new_task": "node ./src/new_task.js",
+    "receiver_worker": "node ./src/worker.js",
     "emit_logs": "node ./src/emit_logs.js",
     "receive_logs": "node ./src/03-receive_logs.js",
     "emit_log_direct": "node ./src/emit_log_direct.js",

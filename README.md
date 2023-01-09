@@ -20,7 +20,7 @@
 
   Run ***02-emit_new_task.js\***
 
-  ´npm run emit_new_task ..´ 
+  `npm run emit_new_task ..`
 
   *observation:* 
 
@@ -31,7 +31,7 @@
 
   Run ***03-emit_logs.js\*** 
 
-  ´npm run emit_logs´
+  `npm run emit_logs`
 
   *observation:* 
 
@@ -41,7 +41,7 @@
 
   Run ***04-emit_logs_direct.js\*** 
 
-   ´npm run emit_logs_direct error warning´
+   `npm run emit_logs_direct error warning`
 
   *observation:* 
 
@@ -51,7 +51,7 @@
 
   Run ***05-emit_logs_topic.js\*** 
 
-   ´npm run emit_log_topic api.error.bug *.error.*´
+  `npm run emit_log_topic api.error.bug *.error.*`
 
   *observation:* 
 
